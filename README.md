@@ -58,12 +58,3 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request  
 
-
-<!-- CONTACT -->
-
-## :man: Project Created & Maintained By -
-
-- **Hey guys, I'm Jayvardhan. Find out more about me** [ here](https://linkedin.com/in/rathi406)
-- **Reach out to me at** [rathi406@gmail.com](rathi406@gmail.com)
-
-<h3 align="right">Built with :heart: by Jayvardhan Rathi</h3>
